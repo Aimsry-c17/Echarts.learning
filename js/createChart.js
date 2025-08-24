@@ -615,7 +615,7 @@
         roseType: "radius",
         // 图形的文字标签
         label: {
-          fontSize: 13,
+          fontSize: 10,
           color: "auto",
         },
         // 链接图形和文字的线条
@@ -957,3 +957,4 @@
     myChart.resize();
   });
 })();
+
